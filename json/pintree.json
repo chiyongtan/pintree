@@ -1,12 +1,626 @@
 [
   {
     "type": "folder",
-    "addDate": 1701581978644,
-    "title": "收藏夹栏",
+    "addDate": 1705579894214,
+    "title": "书签栏",
     "children": [
       {
         "type": "folder",
-        "addDate": 1730203959931,
+        "addDate": 1730206758036,
+        "title": "论坛",
+        "children": [
+          {
+            "type": "link",
+            "title": "吾爱破解 - LCG - LSG|安卓破解|病毒分析|www.52pojie.cn",
+            "icon": "https://logo.clearbit.com/www.52pojie.cn",
+            "url": "https://www.52pojie.cn/"
+          },
+          {
+            "type": "link",
+            "title": "腕能新趣—连接无限可能，传递免费优质互联网资源！",
+            "icon": "https://logo.clearbit.com/www.8uid.com",
+            "url": "https://www.8uid.com/"
+          },
+          {
+            "type": "link",
+            "title": "爱发电 · 连接创作者与粉丝的会员制平台",
+            "icon": "https://logo.clearbit.com/afdian.net",
+            "url": "https://afdian.net/"
+          },
+          {
+            "type": "link",
+            "title": "画师联盟官网-自由画师的自由联合-huashilm",
+            "icon": "https://logo.clearbit.com/huashilm.com",
+            "url": "https://huashilm.com/"
+          },
+          {
+            "type": "link",
+            "title": "Crx搜搜 - 一个牛X的扩展和应用商店",
+            "icon": "https://logo.clearbit.com/www.crxsoso.com",
+            "url": "https://www.crxsoso.com/"
+          },
+          {
+            "type": "link",
+            "title": "恩山无线论坛",
+            "icon": "https://logo.clearbit.com/www.right.com.cn",
+            "url": "https://www.right.com.cn/forum/forum.php"
+          },
+          {
+            "type": "link",
+            "title": "PureSky工作室官网|净空ROM|MIUI官改|PureSky|净空|骁亿",
+            "icon": "https://logo.clearbit.com/jk.511i.cn",
+            "url": "https://jk.511i.cn/"
+          },
+          {
+            "type": "link",
+            "title": "【新提醒】Minecraft(我的世界)中文论坛——Minecraft中文站,我的世界中文论坛,我的世界论坛 -",
+            "icon": "https://logo.clearbit.com/www.mcbbs.net",
+            "url": "https://www.mcbbs.net/portal.php"
+          },
+          {
+            "type": "link",
+            "title": "MC百科|最大的Minecraft中文MOD百科",
+            "icon": "https://logo.clearbit.com/www.mcmod.cn",
+            "url": "https://www.mcmod.cn/"
+          },
+          {
+            "type": "link",
+            "title": "我的世界mod - 我的世界中文站",
+            "icon": "https://logo.clearbit.com/www.minecraftzw.com",
+            "url": "https://www.minecraftzw.com/category/mods"
+          },
+          {
+            "type": "link",
+            "title": "[PMRE]像素精灵宝可梦 重铸 (Pixelmon) - MC百科|最大的Minecraft中文MOD百科",
+            "icon": "https://logo.clearbit.com/www.mcmod.cn",
+            "url": "https://www.mcmod.cn/class/1190.html"
+          },
+          {
+            "type": "link",
+            "title": "The Pixelmon Wiki",
+            "icon": "https://logo.clearbit.com/pixelmonmod.com",
+            "url": "https://pixelmonmod.com/wiki/Main_Page"
+          },
+          {
+            "type": "link",
+            "title": "Magisk中文网",
+            "icon": "https://logo.clearbit.com/magiskcn.com",
+            "url": "https://magiskcn.com/"
+          },
+          {
+            "type": "link",
+            "title": "Magisk资源分享-分享玩机快乐!",
+            "icon": "https://logo.clearbit.com/magisk.suchenqaq.club",
+            "url": "https://magisk.suchenqaq.club/"
+          },
+          {
+            "type": "link",
+            "title": "Magsik仓库-梦想收录全网magisk模块",
+            "icon": "https://logo.clearbit.com/www.magisk.cool",
+            "url": "https://www.magisk.cool/"
+          },
+          {
+            "type": "link",
+            "title": "墨门极客们的Magisk仓库",
+            "icon": "https://logo.clearbit.com/lovetoome.com",
+            "url": "https://lovetoome.com/magisk-warehouse"
+          },
+          {
+            "type": "link",
+            "title": "Magisk,Magisk模块,xp模块,安卓破解,Android插件,手机刷机,手机root,root,BL解锁,BL破解,面具模块仓库_Magisk 仓库",
+            "icon": "https://logo.clearbit.com/apk.magisk.vip",
+            "url": "https://apk.magisk.vip/"
+          },
+          {
+            "type": "link",
+            "title": "搜书吧入口",
+            "icon": "https://logo.clearbit.com/2212--0520.1205.world.chickengotogo.com",
+            "url": "http://2212--0520.1205.world.chickengotogo.com:1223/o/?sigin=05601PM51120k7E121"
+          },
+          {
+            "type": "link",
+            "title": "Palworld Nexus - Mods and community",
+            "icon": "https://logo.clearbit.com/www.nexusmods.com",
+            "url": "https://www.nexusmods.com/palworld/"
+          },
+          {
+            "type": "link",
+            "title": "神域引导页",
+            "icon": "https://logo.clearbit.com/shenyu66.com",
+            "url": "http://shenyu66.com/"
+          },
+          {
+            "type": "link",
+            "title": "MT论坛 - MT官网_MT管理器论坛_MT管理器_MT管理器教程_MT最新版本",
+            "icon": "https://logo.clearbit.com/bbs.binmt.cc",
+            "url": "https://bbs.binmt.cc/"
+          },
+          {
+            "type": "link",
+            "title": "(1) XDA Forums",
+            "icon": "https://logo.clearbit.com/xdaforums.com",
+            "url": "https://xdaforums.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1730206758038,
+        "title": "网盘搜索",
+        "children": [
+          {
+            "type": "link",
+            "title": "云铺子",
+            "icon": "https://logo.clearbit.com/www.yunpz.net",
+            "url": "http://www.yunpz.net/wangpan.html"
+          },
+          {
+            "type": "link",
+            "title": "盘搜论坛",
+            "icon": "https://logo.clearbit.com/bbs.alipansou.com",
+            "url": "https://bbs.alipansou.com/"
+          },
+          {
+            "type": "link",
+            "title": "奈斯搜索 - 资源超丰富的阿里云盘资源搜索网站！",
+            "icon": "https://logo.clearbit.com/www.niceso.net",
+            "url": "https://www.niceso.net/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1730206758038,
+        "title": "tools",
+        "children": [
+          {
+            "type": "link",
+            "title": "元萝卜 - 官方网站",
+            "icon": "https://logo.clearbit.com/www.die.lu",
+            "url": "https://www.die.lu/"
+          },
+          {
+            "type": "link",
+            "title": "图床Postimages — 免费图片托管 / 图片上传",
+            "icon": "https://logo.clearbit.com/postimages.org",
+            "url": "https://postimages.org/"
+          },
+          {
+            "type": "link",
+            "title": "图吧工具箱 - 最纯净的硬件工具箱",
+            "icon": "https://logo.clearbit.com/www.tbtool.cn",
+            "url": "http://www.tbtool.cn/"
+          },
+          {
+            "type": "link",
+            "title": "Roundcube - Free and Open Source Webmail Software",
+            "icon": "https://logo.clearbit.com/roundcube.net",
+            "url": "https://roundcube.net/"
+          },
+          {
+            "type": "link",
+            "title": "一次性邮箱",
+            "icon": "https://logo.clearbit.com/temp-mail.org",
+            "url": "https://temp-mail.org/"
+          },
+          {
+            "type": "link",
+            "title": "10分鐘信箱",
+            "icon": "https://logo.clearbit.com/10minutemail.net",
+            "url": "https://10minutemail.net/?lang=zh"
+          },
+          {
+            "type": "folder",
+            "addDate": 1730206758038,
+            "title": "游戏工具",
+            "children": [
+              {
+                "type": "link",
+                "title": "帕鲁群岛 - 幻兽帕鲁互动地图 - 踩蘑菇社区",
+                "icon": "https://logo.clearbit.com/map.caimogu.cc",
+                "url": "https://map.caimogu.cc/palworld/paru_islands.html"
+              },
+              {
+                "type": "link",
+                "title": "幻兽帕鲁全配种工具",
+                "icon": "https://logo.clearbit.com/palworld.caimogu.cc",
+                "url": "https://palworld.caimogu.cc/breed.html"
+              },
+              {
+                "type": "link",
+                "title": "内兹帕斯峡谷 - Way of the Hunter",
+                "icon": "https://logo.clearbit.com/codeaid.github.io",
+                "url": "https://codeaid.github.io/woth-toolbox/nez-perce-valley"
+              },
+              {
+                "type": "link",
+                "title": "PokeKING",
+                "icon": "https://logo.clearbit.com/pokeking.icu",
+                "url": "http://pokeking.icu/undefined"
+              },
+              {
+                "type": "link",
+                "title": "Pokémon GO Type Chart",
+                "icon": "https://logo.clearbit.com/db.pokemongohub.net",
+                "url": "https://db.pokemongohub.net/tools/type-chart"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "title": "RayLink远程控制软件-免费真高清超流畅远程控制电脑手机",
+            "icon": "https://logo.clearbit.com/www.raylink.live",
+            "url": "https://www.raylink.live/"
+          },
+          {
+            "type": "link",
+            "title": "解决百度网盘限速 - 奔跑中的奶酪",
+            "icon": "https://logo.clearbit.com/www.runningcheese.com",
+            "url": "https://www.runningcheese.com/baiduyun"
+          },
+          {
+            "type": "link",
+            "title": "音乐解锁",
+            "icon": "https://logo.clearbit.com/demo.unlock-music.dev",
+            "url": "https://demo.unlock-music.dev/"
+          },
+          {
+            "type": "link",
+            "title": "Simplenote",
+            "icon": "https://logo.clearbit.com/app.simplenote.com",
+            "url": "https://app.simplenote.com/"
+          },
+          {
+            "type": "link",
+            "title": "种子地图 - Minecraft 应用程序",
+            "icon": "https://logo.clearbit.com/www.chunkbase.com",
+            "url": "https://www.chunkbase.com/apps/seed-map#-1012341168201532423"
+          },
+          {
+            "type": "link",
+            "title": "白嫖logo",
+            "icon": "https://logo.clearbit.com/www.logosc.cn",
+            "url": "https://www.logosc.cn/"
+          },
+          {
+            "type": "link",
+            "title": "Imagestool",
+            "icon": "https://logo.clearbit.com/imagestool.com",
+            "url": "https://imagestool.com/zh_CN/"
+          },
+          {
+            "type": "link",
+            "title": "全国图鉴 - 宝可梦图鉴 - 精灵宝可梦剑·盾",
+            "icon": "https://logo.clearbit.com/www.pokedex.app",
+            "url": "https://www.pokedex.app/zh/pokemon-national"
+          },
+          {
+            "type": "link",
+            "title": "风灵月影s",
+            "icon": "https://logo.clearbit.com/flingtrainer.com",
+            "url": "http://flingtrainer.com/"
+          },
+          {
+            "type": "link",
+            "title": "Nekobox",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/MatsuriDayo/nekoray/"
+          },
+          {
+            "type": "link",
+            "title": "sing-box",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/SagerNet/sing-box/"
+          },
+          {
+            "type": "link",
+            "title": "东方ChatGPT导航",
+            "icon": "https://logo.clearbit.com/flowus.cn",
+            "url": "https://flowus.cn/dongfang/share/3fd6305e-5531-43de-956e-01e82b65e976"
+          },
+          {
+            "type": "link",
+            "title": "vless",
+            "icon": "https://logo.clearbit.com/vless.shchiyongtan.top",
+            "url": "https://vless.shchiyongtan.top/115ce2be-b5bd-40ff-b7e5-7494b3ba78db"
+          },
+          {
+            "type": "link",
+            "title": "美国地址生成器 - 美国身份生成器 - 美国信用卡生成器",
+            "icon": "https://logo.clearbit.com/www.meiguodizhi.com",
+            "url": "https://www.meiguodizhi.com/"
+          },
+          {
+            "type": "link",
+            "title": "speedtest.net/",
+            "icon": "https://logo.clearbit.com/www.speedtest.net",
+            "url": "https://www.speedtest.net/zh-Hans"
+          },
+          {
+            "type": "link",
+            "title": "伊莉思AGI-构建多模态AGI生产力/学习助手",
+            "icon": "https://logo.clearbit.com/agi.ylsap.com",
+            "url": "https://agi.ylsap.com/"
+          },
+          {
+            "type": "link",
+            "title": "Convertio — 文件转换器",
+            "icon": "https://logo.clearbit.com/convertio.co",
+            "url": "https://convertio.co/zh/"
+          },
+          {
+            "type": "link",
+            "title": "F4Pan",
+            "icon": "https://logo.clearbit.com/pan.b23.buzz",
+            "url": "https://pan.b23.buzz/#/"
+          },
+          {
+            "type": "link",
+            "title": "拾取坐标系统",
+            "icon": "https://logo.clearbit.com/api.map.baidu.com",
+            "url": "https://api.map.baidu.com/lbsapi/getpoint/index.html"
+          },
+          {
+            "type": "folder",
+            "addDate": 1730206758039,
+            "title": "GPS",
+            "children": [
+              {
+                "type": "link",
+                "title": "影梭GPS更改",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/ZCShou/GoGoGo"
+              },
+              {
+                "type": "link",
+                "title": "定位助手 - wyx176/mockgps: 虚拟定位、定位打卡、位置修改、支持最新安卓、支持ROOT",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/wyx176/mockgps?tab=readme-ov-file"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "title": "Internet Speed Test | Fast.com",
+            "icon": "https://logo.clearbit.com/fast.com",
+            "url": "https://fast.com/#"
+          },
+          {
+            "type": "link",
+            "title": "chen08209/FlClash: A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/chen08209/FlClash?tab=readme-ov-file"
+          },
+          {
+            "type": "link",
+            "title": "subconverter/README-cn.md at master · tindy2013/subconverter",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/tindy2013/subconverter/blob/master/README-cn.md"
+          },
+          {
+            "type": "link",
+            "title": "bulianglin/demo: 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/bulianglin/demo"
+          },
+          {
+            "type": "link",
+            "title": "Adb 在线执行器",
+            "icon": "https://logo.clearbit.com/adb.http.gs",
+            "url": "https://adb.http.gs/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1730206758040,
+        "title": "资源网",
+        "children": [
+          {
+            "type": "link",
+            "title": "鼠标指针 - 光标 - 电脑鼠标指针下载 - 致美化 - 漫锋网",
+            "icon": "https://logo.clearbit.com/zhutix.com",
+            "url": "https://zhutix.com/tag/cursors/"
+          },
+          {
+            "type": "link",
+            "title": "神秘的热心网友 - 收集免费实用有趣的东西，做最好的资源导航",
+            "icon": "https://logo.clearbit.com/imyshare.com",
+            "url": "https://imyshare.com/"
+          },
+          {
+            "type": "link",
+            "title": "学科网-海量中小学教育资源共享平台、权威教学资源门户网站！",
+            "icon": "https://logo.clearbit.com/www.zxxk.com",
+            "url": "https://www.zxxk.com/"
+          },
+          {
+            "type": "link",
+            "title": "反斗限免",
+            "icon": "https://logo.clearbit.com/free.apprcn.com",
+            "url": "http://free.apprcn.com/"
+          },
+          {
+            "type": "link",
+            "title": "正版中国 | 正版软件限时免费",
+            "icon": "https://logo.clearbit.com/www.getitfree.cn",
+            "url": "https://www.getitfree.cn/"
+          },
+          {
+            "type": "link",
+            "title": "福斯舒布",
+            "icon": "https://logo.clearbit.com/www.fosshub.com",
+            "url": "https://www.fosshub.com/"
+          },
+          {
+            "type": "link",
+            "title": "无涯教程 - 程序员零基础入门自学编程,IT在线学习平台",
+            "icon": "https://logo.clearbit.com/www.learnfk.com",
+            "url": "https://www.learnfk.com/"
+          },
+          {
+            "type": "link",
+            "title": "致美化 - 最专业的桌面美化交流平台 - 漫锋网",
+            "icon": "https://logo.clearbit.com/zhutix.com",
+            "url": "https://zhutix.com/"
+          },
+          {
+            "type": "link",
+            "title": "柚坛社区",
+            "icon": "https://logo.clearbit.com/uotan.cn",
+            "url": "https://uotan.cn/resources/"
+          },
+          {
+            "type": "link",
+            "title": "Pexels免费素材图片",
+            "icon": "https://logo.clearbit.com/www.pexels.com",
+            "url": "https://www.pexels.com/zh-cn/"
+          },
+          {
+            "type": "link",
+            "title": "花瓣网 - 陪你做生活的设计师（创意灵感天堂，搜索、发现设计灵感、设计素材）",
+            "icon": "https://logo.clearbit.com/huaban.com",
+            "url": "https://huaban.com/guide"
+          },
+          {
+            "type": "link",
+            "title": "MSDN原版系统,纯净镜像,MSDN ISO下载 - 我的MSDN",
+            "icon": "https://logo.clearbit.com/www.imsdn.cn",
+            "url": "https://www.imsdn.cn/"
+          },
+          {
+            "type": "link",
+            "title": "常用软件 - lsy的小站",
+            "icon": "https://logo.clearbit.com/lsy22.com",
+            "url": "https://lsy22.com/228.html"
+          },
+          {
+            "type": "link",
+            "title": "pixiv",
+            "icon": "https://logo.clearbit.com/www.pixiv.net",
+            "url": "https://www.pixiv.net/"
+          },
+          {
+            "type": "link",
+            "title": "iPA商店-最优秀的iPA资源下载网站",
+            "icon": "https://logo.clearbit.com/ipa.store",
+            "url": "https://ipa.store/"
+          },
+          {
+            "type": "link",
+            "title": "HHYX-游戏仓库-大型电脑单机游戏",
+            "icon": "https://logo.clearbit.com/www.hhyx.vip",
+            "url": "https://www.hhyx.vip/"
+          },
+          {
+            "type": "link",
+            "title": "PPT模板 - PPT模板免费下载 - 免费PPT模板下载 - 微软officePLUS",
+            "icon": "https://logo.clearbit.com/www.officeplus.cn",
+            "url": "https://www.officeplus.cn/"
+          },
+          {
+            "type": "link",
+            "title": "光厂(VJ师网)_正版视频素材下载",
+            "icon": "https://logo.clearbit.com/www.vjshi.com",
+            "url": "https://www.vjshi.com/"
+          },
+          {
+            "type": "link",
+            "title": "33台词 - 通过台词找影片素材",
+            "icon": "https://logo.clearbit.com/33.agilestudio.cn",
+            "url": "https://33.agilestudio.cn/"
+          },
+          {
+            "type": "link",
+            "title": "Porn Dude – 2024年最好的色情网站和免费色情视频网站列表！",
+            "icon": "https://logo.clearbit.com/theporndude.com",
+            "url": "https://theporndude.com/zh"
+          },
+          {
+            "type": "folder",
+            "addDate": 1730206758041,
+            "title": "游戏",
+            "children": [
+              {
+                "type": "link",
+                "title": "小叽资源 - Free Share",
+                "icon": "https://logo.clearbit.com/steamzg.com",
+                "url": "https://steamzg.com/"
+              },
+              {
+                "type": "link",
+                "title": "GBT乐赏游戏空间",
+                "icon": "https://logo.clearbit.com/gbtgame.ysepan.com",
+                "url": "http://gbtgame.ysepan.com/"
+              },
+              {
+                "type": "link",
+                "title": "thebyrut游戏网",
+                "icon": "https://logo.clearbit.com/thebyrut.org",
+                "url": "https://thebyrut.org/"
+              },
+              {
+                "type": "link",
+                "title": "Koyso地址",
+                "icon": "https://logo.clearbit.com/sway.cloud.microsoft",
+                "url": "https://sway.cloud.microsoft/HHSjaNhSbMuhNpTh"
+              },
+              {
+                "type": "link",
+                "title": "Koyso",
+                "icon": "https://logo.clearbit.com/koyso.com",
+                "url": "https://koyso.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "title": "精选资源库",
+            "icon": "https://logo.clearbit.com/www.kdocs.cn",
+            "url": "https://www.kdocs.cn/l/cu94iOo8rZfB"
+          },
+          {
+            "type": "link",
+            "title": "域名注册Cheap Domain Names & Web Hosting Starting at $0.99! | NameSilo",
+            "icon": "https://logo.clearbit.com/www.namesilo.com",
+            "url": "https://www.namesilo.com/"
+          },
+          {
+            "type": "link",
+            "title": "Cloudflare | Web Performance & Security",
+            "icon": "https://logo.clearbit.com/dash.cloudflare.com",
+            "url": "https://dash.cloudflare.com/196c62de6e2f1567674a8c955aa41773"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1730206758041,
+        "title": "号卡",
+        "children": [
+          {
+            "type": "link",
+            "title": "172号卡分销系统",
+            "icon": "https://logo.clearbit.com/haoka.lot-ml.com",
+            "url": "https://haoka.lot-ml.com/view/iframe.html"
+          },
+          {
+            "type": "link",
+            "title": "卡博世订单管理系统",
+            "icon": "https://logo.clearbit.com/wap.kaboshihaoka.com",
+            "url": "https://wap.kaboshihaoka.com/"
+          },
+          {
+            "type": "link",
+            "title": "敢探号订单管理系统",
+            "icon": "https://logo.clearbit.com/gantanhao.vip",
+            "url": "https://gantanhao.vip/91haoka_platform/#/index"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1730206758035,
         "title": "机场",
         "children": [
           {
@@ -66,697 +680,28 @@
         ]
       },
       {
-        "type": "folder",
-        "addDate": 1730203959934,
-        "title": "书签栏",
-        "children": [
-          {
-            "type": "link",
-            "title": "nbtab 新标签页",
-            "icon": "https://logo.clearbit.com/tab.nbtab.cc",
-            "url": "https://tab.nbtab.cc/"
-          },
-        {
-          "type": "folder",
-          "addDate": 1730203959934,
-          "title": "论坛",
-          "children": [
-            {
-              "type": "link",
-              "title": "吾爱破解 - LCG - LSG|安卓破解|病毒分析|www.52pojie.cn",
-              "icon": "https://logo.clearbit.com/www.52pojie.cn",
-              "url": "https://www.52pojie.cn/"
-            },
-            {
-              "type": "link",
-              "title": "腕能新趣—连接无限可能，传递免费优质互联网资源！",
-              "icon": "https://logo.clearbit.com/www.8uid.com",
-              "url": "https://www.8uid.com/"
-            },
-            {
-              "type": "link",
-              "title": "爱发电 · 连接创作者与粉丝的会员制平台",
-              "icon": "https://logo.clearbit.com/afdian.net",
-              "url": "https://afdian.net/"
-            },
-            {
-              "type": "link",
-              "title": "画师联盟官网-自由画师的自由联合-huashilm",
-              "icon": "https://logo.clearbit.com/huashilm.com",
-              "url": "https://huashilm.com/"
-            },
-            {
-              "type": "link",
-              "title": "Crx搜搜 - 一个牛X的扩展和应用商店",
-              "icon": "https://logo.clearbit.com/www.crxsoso.com",
-              "url": "https://www.crxsoso.com/"
-            },
-            {
-              "type": "link",
-              "title": "恩山无线论坛",
-              "icon": "https://logo.clearbit.com/www.right.com.cn",
-              "url": "https://www.right.com.cn/forum/forum.php"
-            },
-            {
-              "type": "link",
-              "title": "PureSky工作室官网|净空ROM|MIUI官改|PureSky|净空|骁亿",
-              "icon": "https://logo.clearbit.com/jk.511i.cn",
-              "url": "https://jk.511i.cn/"
-            },
-            {
-              "type": "link",
-              "title": "【新提醒】Minecraft(我的世界)中文论坛——Minecraft中文站,我的世界中文论坛,我的世界论坛 -",
-              "icon": "https://logo.clearbit.com/www.mcbbs.net",
-              "url": "https://www.mcbbs.net/portal.php"
-            },
-            {
-              "type": "link",
-              "title": "MC百科|最大的Minecraft中文MOD百科",
-              "icon": "https://logo.clearbit.com/www.mcmod.cn",
-              "url": "https://www.mcmod.cn/"
-            },
-            {
-              "type": "link",
-              "title": "我的世界mod - 我的世界中文站",
-              "icon": "https://logo.clearbit.com/www.minecraftzw.com",
-              "url": "https://www.minecraftzw.com/category/mods"
-            },
-            {
-              "type": "link",
-              "title": "[PMRE]像素精灵宝可梦 重铸 (Pixelmon) - MC百科|最大的Minecraft中文MOD百科",
-              "icon": "https://logo.clearbit.com/www.mcmod.cn",
-              "url": "https://www.mcmod.cn/class/1190.html"
-            },
-            {
-              "type": "link",
-              "title": "The Pixelmon Wiki",
-              "icon": "https://logo.clearbit.com/pixelmonmod.com",
-              "url": "https://pixelmonmod.com/wiki/Main_Page"
-            },
-            {
-              "type": "link",
-              "title": "Magisk中文网",
-              "icon": "https://logo.clearbit.com/magiskcn.com",
-              "url": "https://magiskcn.com/"
-            },
-            {
-              "type": "link",
-              "title": "Magisk资源分享-分享玩机快乐!",
-              "icon": "https://logo.clearbit.com/magisk.suchenqaq.club",
-              "url": "https://magisk.suchenqaq.club/"
-            },
-            {
-              "type": "link",
-              "title": "Magsik仓库-梦想收录全网magisk模块",
-              "icon": "https://logo.clearbit.com/www.magisk.cool",
-              "url": "https://www.magisk.cool/"
-            },
-            {
-              "type": "link",
-              "title": "墨门极客们的Magisk仓库",
-              "icon": "https://logo.clearbit.com/lovetoome.com",
-              "url": "https://lovetoome.com/magisk-warehouse"
-            },
-            {
-              "type": "link",
-              "title": "Magisk,Magisk模块,xp模块,安卓破解,Android插件,手机刷机,手机root,root,BL解锁,BL破解,面具模块仓库_Magisk 仓库",
-              "icon": "https://logo.clearbit.com/apk.magisk.vip",
-              "url": "https://apk.magisk.vip/"
-            },
-            {
-              "type": "link",
-              "title": "搜书吧入口",
-              "icon": "https://logo.clearbit.com/2212--0520.1205.world.chickengotogo.com",
-              "url": "http://2212--0520.1205.world.chickengotogo.com:1223/o/?sigin=05601PM51120k7E121"
-            },
-            {
-              "type": "link",
-              "title": "Palworld Nexus - Mods and community",
-              "icon": "https://logo.clearbit.com/www.nexusmods.com",
-              "url": "https://www.nexusmods.com/palworld/"
-            },
-            {
-              "type": "link",
-              "title": "神域引导页",
-              "icon": "https://logo.clearbit.com/shenyu66.com",
-              "url": "http://shenyu66.com/"
-            },
-            {
-              "type": "link",
-              "title": "MT论坛 - MT官网_MT管理器论坛_MT管理器_MT管理器教程_MT最新版本",
-              "icon": "https://logo.clearbit.com/bbs.binmt.cc",
-              "url": "https://bbs.binmt.cc/"
-            },
-            {
-              "type": "link",
-              "title": "(1) XDA Forums",
-              "icon": "https://logo.clearbit.com/xdaforums.com",
-              "url": "https://xdaforums.com/"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "addDate": 1730203959938,
-          "title": "网盘搜索",
-          "children": [
-            {
-              "type": "link",
-              "title": "云铺子",
-              "icon": "https://logo.clearbit.com/www.yunpz.net",
-              "url": "http://www.yunpz.net/wangpan.html"
-            },
-            {
-              "type": "link",
-              "title": "盘搜论坛",
-              "icon": "https://logo.clearbit.com/bbs.alipansou.com",
-              "url": "https://bbs.alipansou.com/"
-            },
-            {
-              "type": "link",
-              "title": "奈斯搜索 - 资源超丰富的阿里云盘资源搜索网站！",
-              "icon": "https://logo.clearbit.com/www.niceso.net",
-              "url": "https://www.niceso.net/"
-            }
-          ]
-          },
-        {
-          "type": "folder",
-          "addDate": 1730203959939,
-          "title": "tools",
-          "children": [
-            {
-              "type": "link",
-              "title": "元萝卜 - 官方网站",
-              "icon": "https://logo.clearbit.com/www.die.lu",
-              "url": "https://www.die.lu/"
-            },
-            {
-              "type": "link",
-              "title": "图床Postimages — 免费图片托管 / 图片上传",
-              "icon": "https://logo.clearbit.com/postimages.org",
-              "url": "https://postimages.org/"
-            },
-            {
-              "type": "link",
-              "title": "图吧工具箱 - 最纯净的硬件工具箱",
-              "icon": "https://logo.clearbit.com/www.tbtool.cn",
-              "url": "http://www.tbtool.cn/"
-            },
-            {
-              "type": "link",
-              "title": "Roundcube - Free and Open Source Webmail Software",
-              "icon": "https://logo.clearbit.com/roundcube.net",
-              "url": "https://roundcube.net/"
-            },
-            {
-              "type": "link",
-              "title": "一次性邮箱",
-              "icon": "https://logo.clearbit.com/temp-mail.org",
-              "url": "https://temp-mail.org/"
-            },
-            {
-              "type": "link",
-              "title": "10分鐘信箱",
-              "icon": "https://logo.clearbit.com/10minutemail.net",
-              "url": "https://10minutemail.net/?lang=zh"
-            },
-            {
-              "type": "folder",
-              "addDate": 1730203959940,
-              "title": "游戏工具",
-              "children": [
-                {
-                  "type": "link",
-                  "title": "帕鲁群岛 - 幻兽帕鲁互动地图 - 踩蘑菇社区",
-                  "icon": "https://logo.clearbit.com/map.caimogu.cc",
-                  "url": "https://map.caimogu.cc/palworld/paru_islands.html"
-                },
-                {
-                  "type": "link",
-                  "title": "幻兽帕鲁全配种工具",
-                  "icon": "https://logo.clearbit.com/palworld.caimogu.cc",
-                  "url": "https://palworld.caimogu.cc/breed.html"
-                },
-                {
-                  "type": "link",
-                  "title": "内兹帕斯峡谷 - Way of the Hunter",
-                  "icon": "https://logo.clearbit.com/codeaid.github.io",
-                  "url": "https://codeaid.github.io/woth-toolbox/nez-perce-valley"
-                },
-                {
-                  "type": "link",
-                  "title": "PokeKING",
-                  "icon": "https://logo.clearbit.com/pokeking.icu",
-                  "url": "http://pokeking.icu/undefined"
-                },
-                {
-                  "type": "link",
-                  "title": "Pokémon GO Type Chart",
-                  "icon": "https://logo.clearbit.com/db.pokemongohub.net",
-                  "url": "https://db.pokemongohub.net/tools/type-chart"
-                }
-              ]
-            },
-            {
-              "type": "link",
-              "title": "RayLink远程控制软件-免费真高清超流畅远程控制电脑手机",
-              "icon": "https://logo.clearbit.com/www.raylink.live",
-              "url": "https://www.raylink.live/"
-            },
-            {
-              "type": "link",
-              "title": "解决百度网盘限速 - 奔跑中的奶酪",
-              "icon": "https://logo.clearbit.com/www.runningcheese.com",
-              "url": "https://www.runningcheese.com/baiduyun"
-            },
-            {
-              "type": "link",
-              "title": "音乐解锁",
-              "icon": "https://logo.clearbit.com/demo.unlock-music.dev",
-              "url": "https://demo.unlock-music.dev/"
-            },
-            {
-              "type": "link",
-              "title": "Simplenote",
-              "icon": "https://logo.clearbit.com/app.simplenote.com",
-              "url": "https://app.simplenote.com/"
-            },
-            {
-              "type": "link",
-              "title": "种子地图 - Minecraft 应用程序",
-              "icon": "https://logo.clearbit.com/www.chunkbase.com",
-              "url": "https://www.chunkbase.com/apps/seed-map#-1012341168201532423"
-            },
-            {
-              "type": "link",
-              "title": "白嫖logo",
-              "icon": "https://logo.clearbit.com/www.logosc.cn",
-              "url": "https://www.logosc.cn/"
-            },
-            {
-              "type": "link",
-              "title": "Imagestool",
-              "icon": "https://logo.clearbit.com/imagestool.com",
-              "url": "https://imagestool.com/zh_CN/"
-            },
-            {
-              "type": "link",
-              "title": "全国图鉴 - 宝可梦图鉴 - 精灵宝可梦剑·盾",
-              "icon": "https://logo.clearbit.com/www.pokedex.app",
-              "url": "https://www.pokedex.app/zh/pokemon-national"
-            },
-            {
-              "type": "link",
-              "title": "风灵月影s",
-              "icon": "https://logo.clearbit.com/flingtrainer.com",
-              "url": "http://flingtrainer.com/"
-            },
-            {
-              "type": "link",
-              "title": "Nekobox",
-              "icon": "https://logo.clearbit.com/github.com",
-              "url": "https://github.com/MatsuriDayo/nekoray/"
-            },
-            {
-              "type": "link",
-              "title": "sing-box",
-              "icon": "https://logo.clearbit.com/github.com",
-              "url": "https://github.com/SagerNet/sing-box/"
-            },
-            {
-              "type": "link",
-              "title": "东方ChatGPT导航",
-              "icon": "https://logo.clearbit.com/flowus.cn",
-              "url": "https://flowus.cn/dongfang/share/3fd6305e-5531-43de-956e-01e82b65e976"
-            },
-            {
-              "type": "link",
-              "title": "vless",
-              "icon": "https://logo.clearbit.com/vless.shchiyongtan.top",
-              "url": "https://vless.shchiyongtan.top/115ce2be-b5bd-40ff-b7e5-7494b3ba78db"
-            },
-            {
-              "type": "link",
-              "title": "美国地址生成器 - 美国身份生成器 - 美国信用卡生成器",
-              "icon": "https://logo.clearbit.com/www.meiguodizhi.com",
-              "url": "https://www.meiguodizhi.com/"
-            },
-            {
-              "type": "link",
-              "title": "speedtest.net/",
-              "icon": "https://logo.clearbit.com/www.speedtest.net",
-              "url": "https://www.speedtest.net/zh-Hans"
-            },
-            {
-              "type": "link",
-              "title": "伊莉思AGI-构建多模态AGI生产力/学习助手",
-              "icon": "https://logo.clearbit.com/agi.ylsap.com",
-              "url": "https://agi.ylsap.com/"
-            },
-            {
-              "type": "link",
-              "title": "Convertio — 文件转换器",
-              "icon": "https://logo.clearbit.com/convertio.co",
-              "url": "https://convertio.co/zh/"
-            },
-            {
-              "type": "link",
-              "title": "F4Pan",
-              "icon": "https://logo.clearbit.com/pan.b23.buzz",
-              "url": "https://pan.b23.buzz/#/"
-            },
-            {
-              "type": "link",
-              "title": "拾取坐标系统",
-              "icon": "https://logo.clearbit.com/api.map.baidu.com",
-              "url": "https://api.map.baidu.com/lbsapi/getpoint/index.html"
-            },
-            {
-              "type": "folder",
-              "addDate": 1730203959945,
-              "title": "GPS",
-              "children": [
-                {
-                  "type": "link",
-                  "title": "影梭GPS更改",
-                  "icon": "https://logo.clearbit.com/github.com",
-                  "url": "https://github.com/ZCShou/GoGoGo"
-                },
-                {
-                  "type": "link",
-                  "title": "定位助手 - wyx176/mockgps: 虚拟定位、定位打卡、位置修改、支持最新安卓、支持ROOT",
-                  "icon": "https://logo.clearbit.com/github.com",
-                  "url": "https://github.com/wyx176/mockgps?tab=readme-ov-file"
-                }
-              ]
-            },
-            {
-              "type": "link",
-              "title": "Internet Speed Test | Fast.com",
-              "icon": "https://logo.clearbit.com/fast.com",
-              "url": "https://fast.com/#"
-            },
-            {
-              "type": "link",
-              "title": "chen08209/FlClash: A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-              "icon": "https://logo.clearbit.com/github.com",
-              "url": "https://github.com/chen08209/FlClash?tab=readme-ov-file"
-            },
-            {
-              "type": "link",
-              "title": "subconverter/README-cn.md at master · tindy2013/subconverter",
-              "icon": "https://logo.clearbit.com/github.com",
-              "url": "https://github.com/tindy2013/subconverter/blob/master/README-cn.md"
-            },
-            {
-              "type": "link",
-              "title": "bulianglin/demo: 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴",
-              "icon": "https://logo.clearbit.com/github.com",
-              "url": "https://github.com/bulianglin/demo"
-            },
-            {
-              "type": "link",
-              "title": "Adb 在线执行器",
-              "icon": "https://logo.clearbit.com/adb.http.gs",
-              "url": "https://adb.http.gs/"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "addDate": 1730203959947,
-          "title": "资源网",
-          "children": [
-            {
-              "type": "link",
-              "title": "鼠标指针 - 光标 - 电脑鼠标指针下载 - 致美化 - 漫锋网",
-              "icon": "https://logo.clearbit.com/zhutix.com",
-              "url": "https://zhutix.com/tag/cursors/"
-            },
-            {
-              "type": "link",
-              "title": "神秘的热心网友 - 收集免费实用有趣的东西，做最好的资源导航",
-              "icon": "https://logo.clearbit.com/imyshare.com",
-              "url": "https://imyshare.com/"
-            },
-            {
-              "type": "link",
-              "title": "学科网-海量中小学教育资源共享平台、权威教学资源门户网站！",
-              "icon": "https://logo.clearbit.com/www.zxxk.com",
-              "url": "https://www.zxxk.com/"
-            },
-            {
-              "type": "link",
-              "title": "反斗限免",
-              "icon": "https://logo.clearbit.com/free.apprcn.com",
-              "url": "http://free.apprcn.com/"
-            },
-            {
-              "type": "link",
-              "title": "正版中国 | 正版软件限时免费",
-              "icon": "https://logo.clearbit.com/www.getitfree.cn",
-              "url": "https://www.getitfree.cn/"
-            },
-            {
-              "type": "link",
-              "title": "福斯舒布",
-              "icon": "https://logo.clearbit.com/www.fosshub.com",
-              "url": "https://www.fosshub.com/"
-            },
-            {
-              "type": "link",
-              "title": "无涯教程 - 程序员零基础入门自学编程,IT在线学习平台",
-              "icon": "https://logo.clearbit.com/www.learnfk.com",
-              "url": "https://www.learnfk.com/"
-            },
-            {
-              "type": "link",
-              "title": "致美化 - 最专业的桌面美化交流平台 - 漫锋网",
-              "icon": "https://logo.clearbit.com/zhutix.com",
-              "url": "https://zhutix.com/"
-            },
-            {
-              "type": "link",
-              "title": "柚坛社区",
-              "icon": "https://logo.clearbit.com/uotan.cn",
-              "url": "https://uotan.cn/resources/"
-            },
-            {
-              "type": "link",
-              "title": "Pexels免费素材图片",
-              "icon": "https://logo.clearbit.com/www.pexels.com",
-              "url": "https://www.pexels.com/zh-cn/"
-            },
-            {
-              "type": "link",
-              "title": "花瓣网 - 陪你做生活的设计师（创意灵感天堂，搜索、发现设计灵感、设计素材）",
-              "icon": "https://logo.clearbit.com/huaban.com",
-              "url": "https://huaban.com/guide"
-            },
-            {
-              "type": "link",
-              "title": "MSDN原版系统,纯净镜像,MSDN ISO下载 - 我的MSDN",
-              "icon": "https://logo.clearbit.com/www.imsdn.cn",
-              "url": "https://www.imsdn.cn/"
-            },
-            {
-              "type": "link",
-              "title": "常用软件 - lsy的小站",
-              "icon": "https://logo.clearbit.com/lsy22.com",
-              "url": "https://lsy22.com/228.html"
-            },
-            {
-              "type": "link",
-              "title": "pixiv",
-              "icon": "https://logo.clearbit.com/www.pixiv.net",
-              "url": "https://www.pixiv.net/"
-            },
-            {
-              "type": "link",
-              "title": "iPA商店-最优秀的iPA资源下载网站",
-              "icon": "https://logo.clearbit.com/ipa.store",
-              "url": "https://ipa.store/"
-            },
-            {
-              "type": "link",
-              "title": "HHYX-游戏仓库-大型电脑单机游戏",
-              "icon": "https://logo.clearbit.com/www.hhyx.vip",
-              "url": "https://www.hhyx.vip/"
-            },
-            {
-              "type": "link",
-              "title": "PPT模板 - PPT模板免费下载 - 免费PPT模板下载 - 微软officePLUS",
-              "icon": "https://logo.clearbit.com/www.officeplus.cn",
-              "url": "https://www.officeplus.cn/"
-            },
-            {
-              "type": "link",
-              "title": "光厂(VJ师网)_正版视频素材下载",
-              "icon": "https://logo.clearbit.com/www.vjshi.com",
-              "url": "https://www.vjshi.com/"
-            },
-            {
-              "type": "link",
-              "title": "33台词 - 通过台词找影片素材",
-              "icon": "https://logo.clearbit.com/33.agilestudio.cn",
-              "url": "https://33.agilestudio.cn/"
-            },
-            {
-              "type": "link",
-              "title": "Porn Dude – 2024年最好的色情网站和免费色情视频网站列表！",
-              "icon": "https://logo.clearbit.com/theporndude.com",
-              "url": "https://theporndude.com/zh"
-            },
-            {
-              "type": "folder",
-              "addDate": 1730203959951,
-              "title": "游戏",
-              "children": [
-                {
-                  "type": "link",
-                  "title": "小叽资源 - Free Share",
-                  "icon": "https://logo.clearbit.com/steamzg.com",
-                  "url": "https://steamzg.com/"
-                },
-                {
-                  "type": "link",
-                  "title": "GBT乐赏游戏空间",
-                  "icon": "https://logo.clearbit.com/gbtgame.ysepan.com",
-                  "url": "http://gbtgame.ysepan.com/"
-                },
-                {
-                  "type": "link",
-                  "title": "thebyrut游戏网",
-                  "icon": "https://logo.clearbit.com/thebyrut.org",
-                  "url": "https://thebyrut.org/"
-                },
-                {
-                  "type": "link",
-                  "title": "Koyso地址",
-                  "icon": "https://logo.clearbit.com/sway.cloud.microsoft",
-                  "url": "https://sway.cloud.microsoft/HHSjaNhSbMuhNpTh"
-                },
-                {
-                  "type": "link",
-                  "title": "Koyso",
-                  "icon": "https://logo.clearbit.com/koyso.com",
-                  "url": "https://koyso.com/"
-                }
-              ]
-            },
-            {
-              "type": "link",
-              "title": "精选资源库",
-              "icon": "https://logo.clearbit.com/www.kdocs.cn",
-              "url": "https://www.kdocs.cn/l/cu94iOo8rZfB"
-            },
-            {
-              "type": "link",
-              "title": "域名注册Cheap Domain Names & Web Hosting Starting at $0.99! | NameSilo",
-              "icon": "https://logo.clearbit.com/www.namesilo.com",
-              "url": "https://www.namesilo.com/"
-            },
-            {
-              "type": "link",
-              "title": "Cloudflare | Web Performance & Security",
-              "icon": "https://logo.clearbit.com/dash.cloudflare.com",
-              "url": "https://dash.cloudflare.com/196c62de6e2f1567674a8c955aa41773"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "addDate": 1730203959953,
-          "title": "号卡",
-          "children": [
-            {
-              "type": "link",
-              "title": "172号卡分销系统",
-              "icon": "https://logo.clearbit.com/haoka.lot-ml.com",
-              "url": "https://haoka.lot-ml.com/view/iframe.html"
-            },
-            {
-              "type": "link",
-              "title": "卡博世订单管理系统",
-              "icon": "https://logo.clearbit.com/wap.kaboshihaoka.com",
-              "url": "https://wap.kaboshihaoka.com/"
-            },
-            {
-              "type": "link",
-              "title": "敢探号订单管理系统",
-              "icon": "https://logo.clearbit.com/gantanhao.vip",
-              "url": "https://gantanhao.vip/91haoka_platform/#/index"
-            }
-          ]
-        },
-        {
-          "type": "link",
-          "title": "扩展",
-          "icon": "https://logo.clearbit.com/microsoftedge.microsoft.com",
-          "url": "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN"
-        },
-        {
-          "type": "link",
-          "title": "Chrome 应用商店",
-          "icon": "https://logo.clearbit.com/chromewebstore.google.com",
-          "url": "https://chromewebstore.google.com/?hl=zh-CN"
-        },
-        {
-          "type": "link",
-          "title": "Facebook",
-          "icon": "https://logo.clearbit.com/www.facebook.com",
-          "url": "https://www.facebook.com/campaign/landing.php?campaign_id=1641457644&extra_1=s%7Cc%7C314952196706%7Ce%7Cfacebook%27%7C&placement=&creative=314952196706&keyword=facebook%27&partner_id=googlesem&extra_2=campaignid%3D1641457644%26adgroupid%3D65407979209%26matchtype%3De%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-362360550869%26loc_physical_ms%3D2344%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=EAIaIQobChMI5cu8i-68_QIVCayWCh0CNAA3EAAYASAAEgKyrPD_BwE"
-        },
-        {
-          "type": "link",
-          "title": "YouTube",
-          "icon": "https://logo.clearbit.com/www.youtube.com",
-          "url": "https://www.youtube.com/"
-        },
-        {
-          "type": "link",
-          "title": "本机",
-          "icon": "https://logo.clearbit.com/www.mi.com",
-          "url": "https://www.mi.com/service/bijiben/drivers/A7S"
-        },
-        {
-          "type": "link",
-          "title": "青柠起始页",
-          "icon": "https://logo.clearbit.com/limestart.cn",
-          "url": "https://limestart.cn/"
-        },
-        {
-          "type": "link",
-          "title": "steamcommunity 302 Ver.12.1.4 – Dogfight360",
-          "icon": "https://logo.clearbit.com/www.dogfight360.com",
-          "url": "https://www.dogfight360.com/blog/686/"
-        },
-        {
-          "type": "link",
-          "title": "脆球域名邮箱-别名邮箱，在线注册收发自定义域名邮箱的网站",
-          "icon": "https://logo.clearbit.com/cuiqiu.com",
-          "url": "https://cuiqiu.com/"
-        },
-        {
-          "type": "link",
-          "title": "Apple (中国大陆) - 官方网站",
-          "icon": "https://logo.clearbit.com/www.apple.com.cn",
-          "url": "https://www.apple.com.cn/"
-        },
-        {
-          "type": "link",
-          "title": "iCloud",
-          "icon": "https://logo.clearbit.com/www.icloud.com",
-          "url": "https://www.icloud.com/"
-        },
-        {
-          "type": "link",
-          "title": "专升本考试_山东省教育招生考试院",
-          "icon": "https://logo.clearbit.com/www.sdzk.cn",
-          "url": "https://www.sdzk.cn/NewsList.aspx?BCID=8"
-          }
-        ]
+        "type": "link",
+        "title": "扩展",
+        "icon": "https://logo.clearbit.com/microsoftedge.microsoft.com",
+        "url": "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN"
+      },
+      {
+        "type": "link",
+        "title": "Chrome 应用商店",
+        "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+        "url": "https://chromewebstore.google.com/?hl=zh-CN"
+      },
+      {
+        "type": "link",
+        "title": "本机",
+        "icon": "https://logo.clearbit.com/www.mi.com",
+        "url": "https://www.mi.com/service/bijiben/drivers/A7S"
+      },
+      {
+        "type": "link",
+        "title": "steamcommunity 302 Ver.12.1.4 – Dogfight360",
+        "icon": "https://logo.clearbit.com/www.dogfight360.com",
+        "url": "https://www.dogfight360.com/blog/686/"
       }
     ]
   }
